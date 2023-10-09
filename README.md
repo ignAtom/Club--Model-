@@ -1,4 +1,4 @@
-# Club (model)
+# Insurance premium (is getting predicted)
   -EDA done
   -Used two algorithms
     1. Linear regression
